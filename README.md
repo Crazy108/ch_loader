@@ -3,7 +3,7 @@ Save materials from `courscehunters.net` for later viewing offline
 
 #Installation
 
-gir clone https://github.com/Crazy108/ch_loader.git
+`git clone https://github.com/Crazy108/ch_loader.git`
 
 # How it Use
 ### Go to `courscehunters.net` and search course
